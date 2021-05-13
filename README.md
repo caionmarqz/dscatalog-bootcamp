@@ -1,3 +1,3 @@
 + bootcamp do devsuperior
 
-- aplicativo web dscatalog
+- aplicativo web dscatalog.
