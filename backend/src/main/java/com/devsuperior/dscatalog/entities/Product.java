@@ -15,6 +15,7 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 
+
 @Entity
 @Table(name = "tb_product")
 public class Product implements Serializable {	
@@ -54,6 +55,7 @@ public class Product implements Serializable {
 		this.date = date;
 	}
 
+	
 	public Long getId() {
 		return id;
 	}
